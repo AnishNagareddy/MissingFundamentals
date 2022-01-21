@@ -1,0 +1,6 @@
+session=MUSHRA
+# TestSignal1
+./Originals/Test1.wav REF
+./Originals/Test2.wav Hidden_REF
+./TestFiles/Test3.wav Sys1
+./TestFiles/Test4.wav Sys2
